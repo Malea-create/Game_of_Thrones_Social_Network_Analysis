@@ -15,3 +15,18 @@ sowie dessen Position zwischen den anderen Charakteren wissenschaftlich untersuc
 Dazu wird eine Social Network Analyse durchgeführt, diese erfasst Beziehungen und Beziehungsstrukturen,
 bildet diese durch Knoten und Kanten ab, die anschließend grafisch visualisiert werden können.
 Diese Visualisierung und Analyse der Daten soll helfen die Fragestellung zu beantworten und Zusammenhänge hervorheben.
+
+Verwendet wird dafür die Programmiersprache R und folgende Packages:
+
+knitr
+tidyverse
+gapminder
+magick
+tidygraph
+ggthemes
+gganimate
+ggraph
+gifski
+gridExtra
+plotly
+tidylog
