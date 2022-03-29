@@ -1,5 +1,8 @@
 # Game_of_Thrones_Social_Network_Analysis
 
+Social Network Analysis with R on a Game of Thrones Character Interaction Dataset
+
+# Area of Analysis
 Hardly anyone has not heard of Game of Thrones since the series began in 2011.
 For the few who haven't heard of the seven kingdoms in Westeros,
 it is an American fantasy television series, based on the books by George R. R. Martin.
@@ -16,6 +19,7 @@ For this purpose, a social network analysis is performed, this captures relation
 maps these through nodes and edges, which can then be visualized graphically.
 This visualization and analysis of the data should help to answer the question and highlight relationships.
 
+# Packages
 The programming language R and the following packages are used:
 
 
