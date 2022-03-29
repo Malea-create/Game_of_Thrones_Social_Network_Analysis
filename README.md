@@ -1,32 +1,33 @@
 # Game_of_Thrones_Social_Network_Analysis
 
-Kaum einer hat seit dem Serienstart 2011 noch nicht von Game of Thrones gehört.
-Für die Wenigen, die noch nichts von den sieben Königslanden in Westeros mitbekommen haben,
-handelt es sich dabei um eine amerikanische Fantasy-Fernsehserie, nach den Büchern von George R. R. Martin.
-Die Serie handelt von den Machtkämpfen um den eisernen Thron, weiteren Bedrohungen, Morden, Intriegen und Verrat.
+Hardly anyone has not heard of Game of Thrones since the series began in 2011.
+For the few who haven't heard of the seven kingdoms in Westeros,
+it is an American fantasy television series, based on the books by George R. R. Martin.
+The series is about the power struggles for the iron throne, further threats, murders, intrigues and betrayals.
 
-Ohne an dieser Stelle zukünftige Fans zu spoilern, hebt sich die Serie vor allem durch ihre Brutalität,
-Unverblühmtheit und dem Tod des ein oder anderen Hauptcharakters von anderen ab.
-In diesen durchweg brutalen Zuständen wird auch der ein oder andere vermeindliche Held zum Mörder.
-Doch was bringt ihn dazu ? Sind die Beziehungen zu anderen Charakteren und die eigene Position ausschlaggebend für dieses Verhalten?
+Without spoiling future fans at this point, the series stands out above all for its brutality,
+brutality, bluntness and the death of one or the other main character.
+In these consistently brutal conditions, even the one or other supposed hero becomes a murderer.
+But what makes him do it ? Are the relations to other characters and the own position decisive for this behavior?
 
-Im Folgenden soll also der Zusammenhang zwischen der Bereitschaft zu töten und der Interaktionen der einzelnen Charaktere,
-sowie dessen Position zwischen den anderen Charakteren wissenschaftlich untersucht werden.
-Dazu wird eine Social Network Analyse durchgeführt, diese erfasst Beziehungen und Beziehungsstrukturen,
-bildet diese durch Knoten und Kanten ab, die anschließend grafisch visualisiert werden können.
-Diese Visualisierung und Analyse der Daten soll helfen die Fragestellung zu beantworten und Zusammenhänge hervorheben.
+So in the following the connection between the willingness to kill and the interactions of the individual characters,
+as well as his position between the other characters will be examined scientifically.
+For this purpose, a social network analysis is performed, this captures relationships and relationship structures,
+maps these through nodes and edges, which can then be visualized graphically.
+This visualization and analysis of the data should help to answer the question and highlight relationships.
 
-Verwendet wird dafür die Programmiersprache R und folgende Packages:
+The programming language R and the following packages are used:
 
-knitr
-tidyverse
-gapminder
-magick
-tidygraph
-ggthemes
-gganimate
-ggraph
-gifski
-gridExtra
-plotly
-tidylog
+
+- knitr
+- tidyverse
+- gapminder
+- magick
+- tidygraph
+- ggthemes
+- gganimate
+- ggraph
+- gifski
+- gridExtra
+- plotly
+- tidylog
